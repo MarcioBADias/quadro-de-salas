@@ -3,108 +3,931 @@
         "room": "Sala 3",
         "day": "Segunda-feira",
         "occupation": "dr. Mauro (Cardiologista)",
-        "hour": "14:00 às 17:30" 
+        "hour": "14:00 às 17:30",
+        "periodicidade": "semanal" 
     },
     {
         "room": "Sala 3",
         "day": "Terça-feira",
         "occupation": "Livre",
-        "hour": "" 
+        "hour": "",
+        "periodicidade": "semanal" 
     },
     {
         "room": "Sala 3",
         "day": "Quarta-feira",
         "occupation": "Livre",
-        "hour": "" 
+        "hour": "",
+        "periodicidade": "semanal" 
     },
     {
         "room": "Sala 3",
         "day": "Quinta-feira",
         "occupation": "Livre",
-        "hour": "" 
+        "hour": "",
+        "periodicidade": "semanal" 
     },
     {
         "room": "Sala 3",
         "day": "Sexta-feira",
         "occupation": "dr. Mauro (Teste Ergométrico)",
-        "hour": "14:00 às 17:30" 
+        "hour": "14:00 às 17:30",
+        "periodicidade": "semanal" 
     },
     {
         "room": "Sala 3",
         "day": "Sabado",
         "occupation": "Livre",
-        "hour": "" 
+        "hour": "",
+        "periodicidade": "semanal" 
     },
     {
         "room": "Sala 4",
         "day": "Segunda-feira",
         "occupation": "dr. Savio (Urologista)",
-        "hour": "08:30 às 11:00" 
+        "hour": "08:30 às 11:00",
+        "periodicidade": "semanal" 
     },
     {
         "room": "Sala 4",
         "day": "Segunda-feira",
         "occupation": "dr. Helcio (Ortopedista)",
-        "hour": "13:00 às 17:30" 
+        "hour": "13:00 às 17:30",
+        "periodicidade": "semanal" 
     },
     {
         "room": "Sala 4",
         "day": "Terça-feira",
         "occupation": "dr. Thais (Ginecologista)",
-        "hour": "08:00 às 11:00" 
+        "hour": "08:00 às 11:00",
+        "periodicidade": "semanal" 
     },
     {
         "room": "Sala 4",
         "day": "Terça-feira",
         "occupation": "dr. José Maurício (Clinico/Gineco)",
-        "hour": "14:00 às 16:40" 
+        "hour": "14:00 às 16:40",
+        "periodicidade": "semanal" 
     },
     {
         "room": "Sala 4",
         "day": "Quarta-feira",
         "occupation": "dr. Helcio (Ortopedista)",
-        "hour": "07:30 às 10:00" 
+        "hour": "07:30 às 10:00",
+        "periodicidade": "semanal" 
     },
     {
         "room": "Sala 4",
         "day": "Quarta-feira",
         "occupation": "dr. José Maurício (Clinico/Gineco)",
-        "hour": "14:00 às 18:00" 
+        "hour": "14:00 às 18:00",
+        "periodicidade": "semanal" 
     },
     {
         "room": "Sala 4",
         "day": "Quinta-feira",
         "occupation": "dr. Sávio (Urologista)",
-        "hour": "08:30 às 11:00" 
+        "hour": "08:30 às 11:00",
+        "periodicidade": "semanal" 
     },
     {
         "room": "Sala 4",
         "day": "Quinta-feira",
         "occupation": "dr. Eidga (Ginecologista)",
-        "hour": "14:00 às 18:00" 
+        "hour": "14:00 às 18:00",
+        "periodicidade": "semanal" 
     },
     {
         "room": "Sala 4",
         "day": "sexta-feira",
         "occupation": "dr. Thais (Ginecologista)",
-        "hour": "08:00 às 11:00" 
+        "hour": "08:00 às 11:00",
+        "periodicidade": "semanal" 
     },
     {
         "room": "Sala 4",   
         "day": "sexta-feira",
         "occupation": "dr. José Maurício (Clinico/Gineco)",
-        "hour": "14:00 às 17:15" 
+        "hour": "14:00 às 17:15",
+        "periodicidade": "semanal" 
     },
     {
         "room": "Sala 4",
         "day": "Sabado",
         "occupation": "Patrícia (Fono)",
-        "hour": "08:30 às 11:00" 
+        "hour": "08:30 às 11:00",
+        "periodicidade": "semanal" 
     },
     {
         "room": "Sala 4",
         "day": "Sabado",
         "occupation": "Patrícia (Fono)",
-        "hour": "14:00 às 18:00" 
+        "hour": "14:00 às 18:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 5",
+        "day": "Segunda-feira",
+        "occupation": "dr. Milena (Angiologista)",
+        "hour": "09:00 às 11:00",
+        "periodicidade": "quinzenal"
+    },
+    {
+        "room": "Sala 5",
+        "day": "Segunda-feira",
+        "occupation": "dr. Luiz Eduardo (Ginecologista)",
+        "hour": "16:00 às 18:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 5",
+        "day": "Terça-feira",
+        "occupation": "dr. Maria Helena (Clínica Geral)",
+        "hour": "08:30 às 12:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 5",
+        "day": "Terça-feira",
+        "occupation": "dr. Helcio (Ortopedista)",
+        "hour": "14:00 às 16:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 5",
+        "day": "Terça-feira",
+        "occupation": "dr. Fernando (Cirurgião)",
+        "hour": "16:00 às 19:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 5",
+        "day": "Quarta-feira",
+        "occupation": "dr. Sávio (Urologista)",
+        "hour": "08:30 às 11:30",
+        "periodicidade": "quinzenal" 
+    },
+    {
+        "room": "Sala 5",
+        "day": "Quarta-feira",
+        "occupation": "dr. Beto (Clínico Geral)",
+        "hour": "16:00 às 18:20",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 5",
+        "day": "Quinta-feira",
+        "occupation": "dr. Fernanda (Ginecologista)",
+        "hour": "09:00 às 11:30",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 5",
+        "day": "Quinta-feira",
+        "occupation": "dr. Fernanda (Ginecologista)",
+        "hour": "13:30 às 16:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 5",
+        "day": "sexta-feira",
+        "occupation": "dr. Solange (Ginecologista)",
+        "hour": "10:00 às 13:30",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 5",   
+        "day": "sexta-feira",
+        "occupation": "dr. Beto (Clínico Geral)",
+        "hour": "14:00 às 18:20",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 5",
+        "day": "Sabado",
+        "occupation": "Luiz (Irinógolo)",
+        "hour": "08:00 às 13:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 5",
+        "day": "Sabado",
+        "occupation": "Luiz (Irinógolo)",
+        "hour": "08:00 às 13:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 6",
+        "day": "Segunda-feira",
+        "occupation": "Mapa/Holter",
+        "hour": "09:00 às 11:00",
+        "periodicidade": "quinzenal"
+    },
+    {
+        "room": "Sala 6",
+        "day": "Segunda-feira",
+        "occupation": "Eletrocardiograma",
+        "hour": "08:00 às 13:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 6",
+        "day": "Terça-feira",
+        "occupation": "Mapa/Holter",
+        "hour": "09:00 às 11:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 6",
+        "day": "Terça-feira",
+        "occupation": "Eletrocardiograma",
+        "hour": "08:00 às 13:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 6",
+        "day": "Quarta-feira",
+        "occupation": "Mapa/Holter",
+        "hour": "09:00 às 11:00",
+        "periodicidade": "quinzenal" 
+    },
+    {
+        "room": "Sala 6",
+        "day": "Quarta-feira",
+        "occupation": "Eletrocardiograma",
+        "hour": "08:00 às 13:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 6",
+        "day": "Quinta-feira",
+        "occupation": "Mapa/Holter",
+        "hour": "09:00 às 11:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 6",
+        "day": "Quinta-feira",
+        "occupation": "Eletrocardiograma",
+        "hour": "08:00 às 13:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 6",
+        "day": "sexta-feira",
+        "occupation": "Mapa/Holter",
+        "hour": "09:00 às 11:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 6",   
+        "day": "sexta-feira",
+        "occupation": "Eletrocardiograma",
+        "hour": "08:00 às 13:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 6",
+        "day": "Sabado",
+        "occupation": "Eletrocardiograma",
+        "hour": "08:00 às 13:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 6",
+        "day": "Sabado",
+        "occupation": "Eletrocardiograma",
+        "hour": "08:00 às 13:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 7",
+        "day": "Segunda-feira",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal"
+    },
+    {
+        "room": "Sala 7",
+        "day": "Segunda-feira",
+        "occupation": "Aline (Ginecologista)",
+        "hour": "13:15 às 16:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 7",
+        "day": "Terça-feira",
+        "occupation": "Aline (Ginecologista)",
+        "hour": "07:15 às 09:30",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 7",
+        "day": "Terça-feira",
+        "occupation": "Aline (Ginecologista)",
+        "hour": "13:15 às 15:45",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 7",
+        "day": "Quarta-feira",
+        "occupation": "Aline (Ginecologista)",
+        "hour": "10:00 às 11:30",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 7",
+        "day": "Quarta-feira",
+        "occupation": "Aline (Ginecologista)",
+        "hour": "15:00 às 15:45",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 7",
+        "day": "Quinta-feira",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 7",
+        "day": "Quinta-feira",
+        "occupation": "Aline (Ginecologista)",
+        "hour": "13:15 às 16:30",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 7",
+        "day": "sexta-feira",
+        "occupation": "Aline (Ginecologista)",
+        "hour": "07:15 às 10:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 7",   
+        "day": "sexta-feira",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 7",
+        "day": "Sabado",
+        "occupation": "Luccas (Nutricionista)",
+        "hour": "08:00 às 12:30",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 8",
+        "day": "Segunda-feira",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal"
+    },
+    {
+        "room": "Sala 8",
+        "day": "Segunda-feira",
+        "occupation": "Claudia (Gastro/Clinico)",
+        "hour": "14:00 às 16:55",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 8",
+        "day": "Terça-feira",
+        "occupation": "Otavio (Nefrologista)",
+        "hour": "14:00 às 16:45",
+        "periodicidade": "quinzenal" 
+    },
+    {
+        "room": "Sala 8",
+        "day": "Terça-feira",
+        "occupation": "Jessika (Nutricionista)",
+        "hour": "14:00 às 17:40",
+        "periodicidade": "quinzenal" 
+    },
+    {
+        "room": "Sala 8",
+        "day": "Quarta-feira",
+        "occupation": "dra. Mariana (Endocrino)",
+        "hour": "07:15 às 12:45",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 8",
+        "day": "Quarta-feira",
+        "occupation": "dra. Mariana (Endocrino)",
+        "hour": "15:30 às 17:30",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 8",
+        "day": "Quinta-feira",
+        "occupation": "dra. Mariana (Endocrino)",
+        "hour": "07:00 às 13:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 8",
+        "day": "Quinta-feira",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 8",
+        "day": "sexta-feira",
+        "occupation": "dr. Mauro (Eco)",
+        "hour": "07:00 às 14:50",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 8",   
+        "day": "sexta-feira",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 8",
+        "day": "Sabado",
+        "occupation": "Michele (Psicologa)",
+        "hour": "08:00 às 13:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 9",
+        "day": "Segunda-feira",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal"
+    },
+    {
+        "room": "Sala 9",
+        "day": "Segunda-feira",
+        "occupation": "dr. Daniel (Gastro)",
+        "hour": "15:00 às 18:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 9",
+        "day": "Terça-feira",
+        "occupation": "dra. Mayara (Endocrino)",
+        "hour": "09:00 às 12:30",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 9",
+        "day": "Terça-feira",
+        "occupation": "dra. Marcia (Pediatra)",
+        "hour": "14:00 às 16:45",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 9",
+        "day": "Quarta-feira",
+        "occupation": "dr. Rodrigo (Pediatra)",
+        "hour": "10:00 às 12:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 9",
+        "day": "Quarta-feira",
+        "occupation": "dr. Osvaldo (Psiquiatria)",
+        "hour": "13:00 às 16:50",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 9",
+        "day": "Quinta-feira",
+        "occupation": "dra. Marcia (Pediatra)",
+        "hour": "09:00 às 13:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 9",
+        "day": "Quinta-feira",
+        "occupation": "Anderson (Eletroencenfalograma)",
+        "hour": "09:00 às 13:00",
+        "periodicidade": "quinzenal" 
+    },
+    {
+        "room": "Sala 9",
+        "day": "sexta-feira",
+        "occupation": "dr. Angela (Pediatra)",
+        "hour": "08:00 às 11:40",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 9",   
+        "day": "sexta-feira",
+        "occupation": "dr. Osvaldo (Psiquiatria)",
+        "hour": "13:40 às 17:35",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 9",
+        "day": "Sabado",
+        "occupation": "Livre",
+        "hour": "08:00 às 13:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 10",
+        "day": "Segunda-feira",
+        "occupation": "dr. Jean (Eco)",
+        "hour": "08:30 às 15:30",
+        "periodicidade": "semanal"
+    },
+    {
+        "room": "Sala 10",
+        "day": "Segunda-feira",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 10",
+        "day": "Terça-feira",
+        "occupation": "dr. Maria Helena (Clínica Geral)",
+        "hour": "08:30 às 11:50",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 10",
+        "day": "Terça-feira",
+        "occupation": "dr. Maria Helena (Clínica Geral)",
+        "hour": "14:00 às 16:20",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 10",
+        "day": "Quarta-feira",
+        "occupation": "dr. Jean (Eco)",
+        "hour": "08:30 às 15:30",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 10",
+        "day": "Quarta-feira",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 10",
+        "day": "Quinta-feira",
+        "occupation": "dra. Carla Bianca (Alergologista)",
+        "hour": "13:30 às 14:50",
+        "periodicidade": "quinzenal" 
+    },
+    {
+        "room": "Sala 10",
+        "day": "Quinta-feira",
+        "occupation": "dr. Beto (Clínico Geral)",
+        "hour": "16:00 às 18:30",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 10",
+        "day": "sexta-feira",
+        "occupation": "dr. Ricardo (Geriatra)",
+        "hour": "08:45 às 13:00",
+        "periodicidade": "quinzenal" 
+    },
+    {
+        "room": "Sala 10",   
+        "day": "sexta-feira",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 10",
+        "day": "Sabado",
+        "occupation": "Livre",
+        "hour": "08:00 às 13:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 11",
+        "day": "Segunda-feira",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal"
+    },
+    {
+        "room": "Sala 11",
+        "day": "Segunda-feira",
+        "occupation": "dr. Wellington (Psiquiatra/Clinico)",
+        "hour": "14:00 às 17:25",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 11",
+        "day": "Terça-feira",
+        "occupation": "dr. Marcelo (Proctologista)",
+        "hour": "09:30 às 11:50",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 11",
+        "day": "Terça-feira",
+        "occupation": "dr. Marcelo (Proctologista)",
+        "hour": "14:30 às 16:50",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 11",
+        "day": "Quarta-feira",
+        "occupation": "dra. Joana (Dermato)",
+        "hour": "08:00 às 12:15",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 11",
+        "day": "Quarta-feira",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 11",
+        "day": "Quinta-feira",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 11",
+        "day": "Quinta-feira",
+        "occupation": "dr. Waldecir (Otorrino)",
+        "hour": "14:00 às 17:30",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 11",
+        "day": "sexta-feira",
+        "occupation": "dr. Gabriela (Pediatra)",
+        "hour": "08:00 às 17:40",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 11",   
+        "day": "sexta-feira",
+        "occupation": "dr. Gabriela (Pediatra)",
+        "hour": "08:00 às 17:40",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 11",
+        "day": "Sabado",
+        "occupation": "dra. Jane (Clinico)",
+        "hour": "08:00 às 11:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 12 (Audiometria)",
+        "day": "Segunda-feira",
+        "occupation": "Verinica (Espirometria)",
+        "hour": "08:00 às 09:45",
+        "periodicidade": "semanal"
+    },
+    {
+        "room": "Sala 13",
+        "day": "Segunda-feira",
+        "occupation": "dra. Bianca (Dermatologista)",
+        "hour": "14:00 às 15:00",
+        "periodicidade": "quinzenal"
+    },
+    {
+        "room": "Sala 13",
+        "day": "Segunda-feira",
+        "occupation": "dr. Beto (Clínico Geral)",
+        "hour": "16:00 às 18:20",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 13",
+        "day": "Terça-feira",
+        "occupation": "dra. Carol (Dermatologista)",
+        "hour": "08:30 às 12:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 13",
+        "day": "Terça-feira",
+        "occupation": "dra. Carol (Dermatologista)",
+        "hour": "13:00 às 17:50",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 13",
+        "day": "Quarta-feira",
+        "occupation": "dra. Fernanda (Alergologista)",
+        "hour": "08:00 às 11:20",
+        "periodicidade": "quinzenal" 
+    },
+    {
+        "room": "Sala 13",
+        "day": "Quarta-feira",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 13",
+        "day": "Quinta-feira",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 13",
+        "day": "Quinta-feira",
+        "occupation": "dra. Damiana (Endocrino)",
+        "hour": "14:00 às 17:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 13",
+        "day": "sexta-feira",
+        "occupation": "Evylen (Nutricionista)",
+        "hour": "08:30 às 13:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 13",   
+        "day": "sexta-feira",
+        "occupation": "Jessica Porto (Nutricionista)",
+        "hour": "14:30 às 18:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 13",
+        "day": "Sabado",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 14",
+        "day": "Segunda-feira",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 14",
+        "day": "Segunda-feira",
+        "occupation": "dra. Raiza (Oftalmologista)",
+        "hour": "13:30 às 16:50",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 14",
+        "day": "Terça-feira",
+        "occupation": "dr. Wellington (Psiquiatra/Clinico)",
+        "hour": "08:00 às 12:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 14",
+        "day": "Terça-feira",
+        "occupation": "Claudia (Gastro/Clinico)",
+        "hour": "14:00 às 16:45",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 14",
+        "day": "Quarta-feira",
+        "occupation": "Claudia (Gastro/Clinico)",
+        "hour": "09:00 às 10:50",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 14",
+        "day": "Quarta-feira",
+        "occupation": "dr. Maria Helena (Clínica Geral)",
+        "hour": "14:00 às 17:20",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 14",
+        "day": "Quinta-feira",
+        "occupation": "dra. Luiza Elizabeth (Clínico)",
+        "hour": "09:00 às 11:30",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 14",
+        "day": "Quinta-feira",
+        "occupation": "Claudia (Gastro/Clinico)",
+        "hour": "14:00 às 17:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 14",
+        "day": "sexta-feira",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 14",   
+        "day": "sexta-feira",
+        "occupation": "Claudia (Gastro/Clinico)",
+        "hour": "14:00 às 18:30",
+        "periodicidade": "semanal"  
+    },
+    {
+        "room": "Sala 14",
+        "day": "Sabado",
+        "occupation": "dra. Raiza (Oftalmologista)",
+        "hour": "09:00 às 12:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 15",
+        "day": "Segunda-feira",
+        "occupation": "Jessica Porto (Nutricionista)",
+        "hour": "09:00 às 11:30",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 15",
+        "day": "Segunda-feira",
+        "occupation": "Luccas (Nutricionista)",
+        "hour": "16:30 às 18:30",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 15",
+        "day": "Terça-feira",
+        "occupation": "Renata (Psicologa)",
+        "hour": "08:00 às 12:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 15",
+        "day": "Terça-feira",
+        "occupation": "Renata (Psicologa)",
+        "hour": "13:30 às 18:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 15",
+        "day": "Quarta-feira",
+        "occupation": "Stephany (Nutricionista)",
+        "hour": "08:00 às 11:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 15",
+        "day": "Quarta-feira",
+        "occupation": "Alelxandre (Nutricionista)",
+        "hour": "14:00 às 15:40",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 15",
+        "day": "Quarta-feira",
+        "occupation": "Luccas (Nutricionista)",
+        "hour": "14:00 às 17:20",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 15",
+        "day": "Quinta-feira",
+        "occupation": "Stephany (Nutricionista)",
+        "hour": "08:00 às 12:30",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 15",
+        "day": "Quinta-feira",
+        "occupation": "dr. Milena (Dermato)",
+        "hour": "14:00 às 16:30",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 15",
+        "day": "sexta-feira",
+        "occupation": "Marina (Psicologa)",
+        "hour": "08:00 às 12:00",
+        "periodicidade": "semanal" 
+    },
+    {
+        "room": "Sala 15",   
+        "day": "sexta-feira",
+        "occupation": "Marina (Psicologa)",
+        "hour": "13:00 às 18:30",
+        "periodicidade": "semanal"  
+    },
+    {
+        "room": "Sala 15",
+        "day": "Sabado",
+        "occupation": "Livre",
+        "hour": "",
+        "periodicidade": "semanal" 
     }
 ]
