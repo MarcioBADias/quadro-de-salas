@@ -8,3 +8,16 @@
 h1{
   color: #006eff;
 }
+
+.container{
+  display: flex;
+  justify-content: space-around;
+}
+
+.box{
+  border-radius: 15px;
+  background: #234987;
+  color: #ffffff;
+  padding: 0 1rem;
+  cursor: pointer;
+}

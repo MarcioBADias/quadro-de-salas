@@ -1,0 +1,110 @@
+[
+    {
+        "room": "Sala 3",
+        "day": "Segunda-feira",
+        "occupation": "dr. Mauro (Cardiologista)",
+        "hour": "14:00 às 17:30" 
+    },
+    {
+        "room": "Sala 3",
+        "day": "Terça-feira",
+        "occupation": "Livre",
+        "hour": "" 
+    },
+    {
+        "room": "Sala 3",
+        "day": "Quarta-feira",
+        "occupation": "Livre",
+        "hour": "" 
+    },
+    {
+        "room": "Sala 3",
+        "day": "Quinta-feira",
+        "occupation": "Livre",
+        "hour": "" 
+    },
+    {
+        "room": "Sala 3",
+        "day": "Sexta-feira",
+        "occupation": "dr. Mauro (Teste Ergométrico)",
+        "hour": "14:00 às 17:30" 
+    },
+    {
+        "room": "Sala 3",
+        "day": "Sabado",
+        "occupation": "Livre",
+        "hour": "" 
+    },
+    {
+        "room": "Sala 4",
+        "day": "Segunda-feira",
+        "occupation": "dr. Savio (Urologista)",
+        "hour": "08:30 às 11:00" 
+    },
+    {
+        "room": "Sala 4",
+        "day": "Segunda-feira",
+        "occupation": "dr. Helcio (Ortopedista)",
+        "hour": "13:00 às 17:30" 
+    },
+    {
+        "room": "Sala 4",
+        "day": "Terça-feira",
+        "occupation": "dr. Thais (Ginecologista)",
+        "hour": "08:00 às 11:00" 
+    },
+    {
+        "room": "Sala 4",
+        "day": "Terça-feira",
+        "occupation": "dr. José Maurício (Clinico/Gineco)",
+        "hour": "14:00 às 16:40" 
+    },
+    {
+        "room": "Sala 4",
+        "day": "Quarta-feira",
+        "occupation": "dr. Helcio (Ortopedista)",
+        "hour": "07:30 às 10:00" 
+    },
+    {
+        "room": "Sala 4",
+        "day": "Quarta-feira",
+        "occupation": "dr. José Maurício (Clinico/Gineco)",
+        "hour": "14:00 às 18:00" 
+    },
+    {
+        "room": "Sala 4",
+        "day": "Quinta-feira",
+        "occupation": "dr. Sávio (Urologista)",
+        "hour": "08:30 às 11:00" 
+    },
+    {
+        "room": "Sala 4",
+        "day": "Quinta-feira",
+        "occupation": "dr. Eidga (Ginecologista)",
+        "hour": "14:00 às 18:00" 
+    },
+    {
+        "room": "Sala 4",
+        "day": "sexta-feira",
+        "occupation": "dr. Thais (Ginecologista)",
+        "hour": "08:00 às 11:00" 
+    },
+    {
+        "room": "Sala 4",   
+        "day": "sexta-feira",
+        "occupation": "dr. José Maurício (Clinico/Gineco)",
+        "hour": "14:00 às 17:15" 
+    },
+    {
+        "room": "Sala 4",
+        "day": "Sabado",
+        "occupation": "Patrícia (Fono)",
+        "hour": "08:30 às 11:00" 
+    },
+    {
+        "room": "Sala 4",
+        "day": "Sabado",
+        "occupation": "Patrícia (Fono)",
+        "hour": "14:00 às 18:00" 
+    }
+]
